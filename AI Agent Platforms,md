@@ -1,0 +1,108 @@
+
+# AI Agent Platforms Overview
+
+This document provides a categorized list of platforms and tools related to AI agents, including general-purpose agents, research assistants, coding agents, and agent-building frameworks.
+
+---
+
+## 🧠 General Purpose AI Agent Stores
+
+- **AI Agent Store**  
+  A centralized platform to discover various AI agents.  
+  [Visit AI Agent Store](https://aiagentstore.ai/)
+
+- **Manus.ai (Beta)**  
+  A powerful general-purpose AI agent platform.  
+  [Visit Manus.ai](https://manus.ai/)
+
+---
+
+## 🔬 Research-Based AI Agents
+
+- **SciSpace Copilot**  
+  AI assistant for scientific research and literature exploration.  
+  [Visit SciSpace](https://scispace.com/)
+
+- **ChatPDF**  
+  AI tool to interact with PDF documents using natural language.  
+  [Visit ChatPDF](https://www.chatpdf.com/)
+
+- **Elicit**  
+  AI research assistant for literature review and question answering.  
+  [Visit Elicit](https://elicit.com/?redirected=true)
+
+- **Research Rabbit**  
+  Visual exploration tool for academic papers and citations.  
+  [Visit Research Rabbit](https://www.researchrabbit.ai/#show_popup_video)
+
+- **Consensus**  
+  AI-powered search engine for scientific consensus.  
+  [Visit Consensus](https://consensus.app/)
+
+---
+
+## 💻 Coding AI Agents
+
+- **Zencoder**  
+  AI agent for code generation and software development.  
+  [Visit Zencoder](https://zencoder.ai/)
+
+- **GitHub Copilot**  
+  AI pair programmer integrated with GitHub.  
+  [Visit GitHub Copilot](https://github.com/features/copilot)
+
+- **Cursor**  
+  AI-powered code editor for developers.  
+  [Visit Cursor](https://www.cursor.com/)
+
+- **Smol Developer**  
+  Lightweight AI developer agent available in AI Agent Store.
+
+- **Replit Ghostwriter**  
+  AI assistant for coding within Replit IDE.  
+  [Visit Replit Ghostwriter](https://replit.com/learn/intro-to-ghostwriter)
+
+---
+
+## 🛠️ Platforms for Building AI Agents
+
+- **Composio SWE Kit**  
+  Toolkit for building software engineering agents.  
+  [Visit Composio SWE Kit](https://composio.dev/swe-kit/#usecases)
+
+- **Reworkd AgentGPT**  
+  Framework for building autonomous AI agents.  
+  [Visit AgentGPT](https://agentgpt.reworkd.ai/)  
+  [Documentation](https://docs.reworkd.ai/introduction)
+
+- **AGPT.co**  
+  Platform for creating and deploying AI agents.  
+  [Visit AGPT.co](https://agpt.co/)
+
+---
+
+## 🤖 Platforms Supporting Agent Creation from Natural Language Requirements
+
+These platforms allow users to describe requirements in plain English and generate AI agents:
+
+- **LangChain**  
+  Framework for building LLM-powered agents.  
+  [Visit LangChain](https://www.langchain.com/)
+
+- **AutoGPT**  
+  Autonomous GPT-based agent framework.  
+  [Visit AutoGPT](https://github.com/Torantulino/Auto-GPT)
+
+- **BabyAGI**  
+  Lightweight autonomous agent framework.  
+  [Visit BabyAGI](https://github.com/yoheinakajima/babyagi)
+
+- **ReAct / AutoGen**  
+  Toolkits for reasoning and acting agents.  
+  [Visit AutoGen](https://microsoft.github.io/autogen/)
+
+---
+
+## 🌐 Additional Resources
+
+- [Google Search](https://www.google.com/) — For discovering more AI agent tools and platforms.
